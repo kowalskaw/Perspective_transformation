@@ -112,3 +112,27 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+*.xml
+*.iml
+*.cfg
+Prescp_transf/venv_lapt/Scripts/activate
+*.bat
+*.ps1
+Prescp_transf/venv_lapt/Scripts/easy_install-3.7-script.py
+Prescp_transf/venv_lapt/Scripts/easy_install-3.7.exe
+Prescp_transf/venv_lapt/Scripts/easy_install-script.py
+*.exe
+Prescp_transf/venv_lapt/Scripts/pip-script.py
+Prescp_transf/venv_lapt/Scripts/pip3-script.py
+Prescp_transf/venv_lapt/Scripts/pip3.7-script.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/3d_drawing/mayavi2_spring.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/3d_drawing/README.txt
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/advanced/plot_eigenvalues.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/advanced/plot_heavy_metal_umlaut.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/advanced/plot_iterated_dynamical_systems.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/advanced/plot_parallel_betweenness.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/advanced/README.txt
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/algorithms/hartford_drug.edgelist
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/algorithms/plot_beam_search.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/algorithms/plot_blockmodel.py
+Prescp_transf/venv_lapt/share/doc/networkx-2.3/examples/algorithms/plot_davis_club.py
